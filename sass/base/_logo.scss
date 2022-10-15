@@ -1,0 +1,12 @@
+.logo {
+    position: relative;
+    &_header {
+        vertical-align: center;
+        max-width: 120px;
+        margin: 8px 0;
+        img {
+            display: block;
+            width: 100%;
+        }
+    }
+}
